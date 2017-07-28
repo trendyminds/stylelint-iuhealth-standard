@@ -1,6 +1,6 @@
 {
   "name": "stylelint-iuhealth-standard",
-  "version": "1.1.2",
+  "version": "1.1.3",
   "description": "Standard shareable config for stylelint",
   "keywords": [
     "stylelint",
@@ -22,6 +22,6 @@
     "stylelint-bem-no-element-nesting": "1.0.6",
     "stylelint-em-media-query": "1.0.2",
     "stylelint-no-mismatching-component-file": "1.0.1",
-    "stylelint-no-multiple-top-level-components": "1.0.1"
+    "stylelint-no-multiple-top-level-components": "1.0.2"
   }
 }
