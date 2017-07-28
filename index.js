@@ -4,12 +4,12 @@ module.exports = {
   "plugins": [
     "stylelint-em-media-query",
     "stylelint-bem-no-element-nesting",
-    "stylelint-no-mismatching-module-file",
-    "stylelint-no-multiple-top-level-modules"
+    "stylelint-no-mismatching-component-file",
+    "stylelint-no-multiple-top-level-components"
   ],
   "rules": {
-    "tmi/no-multiple-top-level-modules": true,
-    "tmi/no-mismatching-module-file": true,
+    "tmi/no-multiple-top-level-components": true,
+    "tmi/no-mismatching-component-file": true,
     "tmi/em-media-query": true,
     "tmi/bem-no-element-nesting": true,
     "media-feature-name-blacklist": [
