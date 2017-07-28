@@ -1,0 +1,27 @@
+{
+  "name": "stylelint-iuhealth-standard",
+  "version": "1.1.0",
+  "description": "Standard shareable config for stylelint",
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "standard"
+  ],
+  "author": "TrendyMinds",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/trendyminds/stylelint-iuhealth-standard.git"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "stylelint": "7.7.1",
+    "stylelint-bem-no-element-nesting": "1.0.6",
+    "stylelint-em-media-query": "1.0.2",
+    "stylelint-no-mismatching-component-file": "1.0.0",
+    "stylelint-no-multiple-top-level-components": "1.0.0"
+  }
+}
