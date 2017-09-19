@@ -26,7 +26,7 @@ module.exports = {
     }],
     "number-leading-zero": "never",
     "number-no-trailing-zeros": true,
-    "selector-no-id": true,
+    "selector-max-id": 0,
     "string-no-newline": true,
     "property-no-vendor-prefix": true,
     "value-no-vendor-prefix": true,
